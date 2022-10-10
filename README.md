@@ -1,4 +1,4 @@
-# Hi, I’m @xavierrobertsgaal
+# Hi, I’m Xavier Roberts-Gaal
 
 I'm a PhD student in [Harvard's Moral Psychology Research Lab](https://cushmanlab.fas.harvard.edu/).
 
