@@ -1,6 +1,8 @@
 # Hi, I’m @xavierrobertsgaal
 
-I'm a PhD student in [Harvard's Moral Psychology Research Lab](https://cushmanlab.fas.harvard.edu/), studying **how we learn to do the right thing** 🧠🧐 with Prof. Fiery Cushman and others!
+I'm a PhD student in [Harvard's Moral Psychology Research Lab](https://cushmanlab.fas.harvard.edu/).
+
+I study 🧐 **how we learn to do the right thing** 🧠 with Prof. Fiery Cushman and others!
 
 Currently, I'm interested in:
 - the contributions of culture, individual learning, and core knowledge to our moral sense
