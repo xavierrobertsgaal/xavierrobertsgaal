@@ -1,4 +1,4 @@
-# Hi, I’m Xavier Roberts-Gaal
+# Hi, I’m Miklos Xavier Roberts-Gaal
 
 I'm a PhD student in [Harvard's Moral Psychology Research Lab](https://cushmanlab.fas.harvard.edu/).
 
