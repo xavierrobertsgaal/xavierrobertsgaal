@@ -1,15 +1,15 @@
 # Hi, I’m Xavier Roberts-Gaal
 
-I'm a PhD student in [Harvard's Moral Psychology Research Lab](https://cushmanlab.fas.harvard.edu/).
+I'm a PhD student in [Harvard's Laboratory for Social Cognitive Science](https://cushmanlab.fas.harvard.edu/).
 
 I study 🧐 **how we learn to do the right thing** 🧠 with Prof. Fiery Cushman and others!
 
 Currently, I'm interested in:
-- the contributions of culture, individual learning, and core knowledge to our moral sense
-- the role of character in moral judgment
 - AI alignment
+- contractualism
+- cultural learning and cultural evolution
 - resource-rational models of cognition
-- theory of deep learning
+- science of evals
 
 If any of this sounds interesting, feel free to drop me an email: xavierrobertsgaal [at] g [dot] harvard [dot] edu
 
