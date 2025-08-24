@@ -2,7 +2,7 @@
 
 I'm a PhD student in [Harvard's Laboratory for Social Cognitive Science](https://cushmanlab.fas.harvard.edu/).
 
-I study 🧐 **how we learn to do the right thing** 🧠 with Prof. Fiery Cushman and others!
+I study 🧐 **how we learn to do the right thing** 🧠 with Fiery Cushman and lots of wonderful collaborators!
 
 Currently, I'm interested in:
 - AI alignment
